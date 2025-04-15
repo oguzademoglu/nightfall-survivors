@@ -13,6 +13,7 @@ public class PlayerInputHandler : MonoBehaviour
     public float moveSpeed = 5f;
     private Vector2 moveInput;
     private Rigidbody2D rb;
+    private PlayerStats stats;
 
     [Header("Dash Settings")]
     public float dashSpeed = 15f;
@@ -28,6 +29,7 @@ public class PlayerInputHandler : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        stats = GetComponent<PlayerStats>();
     }
 
     private void OnEnable()
@@ -45,7 +47,7 @@ public class PlayerInputHandler : MonoBehaviour
         moveInput = context.ReadValue<Vector2>();
     }
 
-    [Obsolete]
+    // [Obsolete]
     public void OnDash(InputAction.CallbackContext context)
     {
         if (context.performed && !isDashing && dashCooldownTimer <= 0f)
@@ -73,7 +75,7 @@ public class PlayerInputHandler : MonoBehaviour
     {
         if (!isDashing)
         {
-            rb.velocity = moveInput.normalized * moveSpeed;
+            rb.velocity = moveInput.normalized * stats.moveSpeed;
         }
     }
 
