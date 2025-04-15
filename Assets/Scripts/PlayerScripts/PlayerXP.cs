@@ -6,6 +6,8 @@ public class PlayerXP : MonoBehaviour
     public int currentLevel = 1;
     public int xpToNextLevel = 10;
 
+    public LevelUpUI levelUpUI;
+
     public void GainXP(int amount)
     {
         currentXP += amount;
@@ -25,6 +27,13 @@ public class PlayerXP : MonoBehaviour
 
         Debug.Log("Level Up! Yeni seviye: " + currentLevel);
 
-        // Buraya yetenek seçme popup'ı vs. ekleyebiliriz
+        if (levelUpUI != null)
+        {
+            levelUpUI.ShowSkillOptions();
+        }
+        else
+        {
+            Debug.LogWarning("LevelUpUI bağlantısı yapılmamış!");
+        }
     }
 }

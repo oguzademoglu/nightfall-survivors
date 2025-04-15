@@ -284,6 +284,7 @@ MonoBehaviour:
   currentXP: 0
   currentLevel: 1
   xpToNextLevel: 10
+  levelUpUI: {fileID: 0}
 --- !u!114 &8353056026838616272
 MonoBehaviour:
   m_ObjectHideFlags: 0
