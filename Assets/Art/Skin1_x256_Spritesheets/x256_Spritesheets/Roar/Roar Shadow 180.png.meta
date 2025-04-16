@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 0c3f36746b2ddee498da02c1e11139f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4436728800638176089
+    second: Roar Shadow 180_0
+  - first:
+      213: -6224314246009746529
+    second: Roar Shadow 180_1
+  - first:
+      213: -5096215360318214691
+    second: Roar Shadow 180_2
+  - first:
+      213: -7141322437756021588
+    second: Roar Shadow 180_3
+  - first:
+      213: -6578214615671798990
+    second: Roar Shadow 180_4
+  - first:
+      213: 7380887701684607196
+    second: Roar Shadow 180_5
+  - first:
+      213: -2464843256099786964
+    second: Roar Shadow 180_6
+  - first:
+      213: -2520086927328638505
+    second: Roar Shadow 180_7
+  - first:
+      213: -3968504670551235004
+    second: Roar Shadow 180_8
+  - first:
+      213: -2710440461907118562
+    second: Roar Shadow 180_9
+  - first:
+      213: 4766243024451698130
+    second: Roar Shadow 180_10
+  - first:
+      213: -3868776446245647667
+    second: Roar Shadow 180_11
+  - first:
+      213: 3431026354981145036
+    second: Roar Shadow 180_12
+  - first:
+      213: -7409745218598252933
+    second: Roar Shadow 180_13
+  - first:
+      213: -7365512691389265231
+    second: Roar Shadow 180_14
+  - first:
+      213: 8901173562254554170
+    second: Roar Shadow 180_15
+  - first:
+      213: -469737094975098050
+    second: Roar Shadow 180_16
+  - first:
+      213: 8594992129629528957
+    second: Roar Shadow 180_17
+  - first:
+      213: 423524386353120697
+    second: Roar Shadow 180_18
+  - first:
+      213: 992169814851244061
+    second: Roar Shadow 180_19
+  - first:
+      213: 3250568046499349928
+    second: Roar Shadow 180_20
+  - first:
+      213: 6235712854968769891
+    second: Roar Shadow 180_21
+  - first:
+      213: 1328459257557741046
+    second: Roar Shadow 180_22
+  - first:
+      213: 8311464101550363781
+    second: Roar Shadow 180_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roar Shadow 180_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 816
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b88ce565d629d30800000000000000
+      internalID: 4436728800638176089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 812
+        width: 98
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b8f2ccb2bce99a0800000000000000
+      internalID: -6224314246009746529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 805
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde755712b9649b0800000000000000
+      internalID: -5096215360318214691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 800
+        width: 108
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca49607441de4ec90800000000000000
+      internalID: -7141322437756021588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 801
+        width: 111
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2338990f8ac75b4a0800000000000000
+      internalID: -6578214615671798990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_5
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 798
+        width: 121
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d5f1524e2e6660800000000000000
+      internalID: 7380887701684607196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 537
+        width: 136
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fa72d2e1e1bcdd0800000000000000
+      internalID: -2464843256099786964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 534
+        width: 141
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d98875aa4ad60dd0800000000000000
+      internalID: -2520086927328638505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 534
+        width: 142
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446a056370a0de8c0800000000000000
+      internalID: -3968504670551235004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_9
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 534
+        width: 142
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e163e2ba2c4926ad0800000000000000
+      internalID: -2710440461907118562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 534
+        width: 142
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd70a137c8152240800000000000000
+      internalID: 4766243024451698130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_11
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 534
+        width: 142
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca412ed1585f4ac0800000000000000
+      internalID: -3868776446245647667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 278
+        width: 142
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc987af9a447d9f20800000000000000
+      internalID: 3431026354981145036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 278
+        width: 142
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e4d417bfb4b2990800000000000000
+      internalID: -7409745218598252933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 278
+        width: 142
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba8c193b3178c990800000000000000
+      internalID: -7365512691389265231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_15
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 278
+        width: 141
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f746c132578b70800000000000000
+      internalID: 8901173562254554170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_16
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 282
+        width: 132
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e337f24d9982b79f0800000000000000
+      internalID: -469737094975098050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_17
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 289
+        width: 116
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73a8ddbdcb874770800000000000000
+      internalID: 8594992129629528957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 33
+        width: 109
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b50b4a7f29a0e500800000000000000
+      internalID: 423524386353120697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 36
+        width: 106
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10d21b9035e4cd00800000000000000
+      internalID: 992169814851244061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_20
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 41
+        width: 101
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a544d18a665c1d20800000000000000
+      internalID: 3250568046499349928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_21
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 47
+        width: 95
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d10c9adc3b98650800000000000000
+      internalID: 6235712854968769891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_22
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 48
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdee4108a2af6210800000000000000
+      internalID: 1328459257557741046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roar Shadow 180_23
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 48
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58412587090485370800000000000000
+      internalID: 8311464101550363781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: d6203ac4a739dd848bed7ba25f83186c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8106480559639189294
+    second: Lookup Body 247_0
+  - first:
+      213: 8104974123907579280
+    second: Lookup Body 247_1
+  - first:
+      213: 2569295126783118412
+    second: Lookup Body 247_2
+  - first:
+      213: 1496587218170788789
+    second: Lookup Body 247_3
+  - first:
+      213: -3985965482248771839
+    second: Lookup Body 247_4
+  - first:
+      213: -3824135039812866530
+    second: Lookup Body 247_5
+  - first:
+      213: 8241823641030406648
+    second: Lookup Body 247_6
+  - first:
+      213: 9094391103111200444
+    second: Lookup Body 247_7
+  - first:
+      213: -1545046759091853761
+    second: Lookup Body 247_8
+  - first:
+      213: -3133468403288873782
+    second: Lookup Body 247_9
+  - first:
+      213: -9201442894359239423
+    second: Lookup Body 247_10
+  - first:
+      213: 6865465573130829261
+    second: Lookup Body 247_11
+  - first:
+      213: 5742816450024423423
+    second: Lookup Body 247_12
+  - first:
+      213: -5030836409174800623
+    second: Lookup Body 247_13
+  - first:
+      213: -8770915301031627453
+    second: Lookup Body 247_14
+  - first:
+      213: 1623058942464261083
+    second: Lookup Body 247_15
+  - first:
+      213: 6786279552152624539
+    second: Lookup Body 247_16
+  - first:
+      213: -7097664690100987480
+    second: Lookup Body 247_17
+  - first:
+      213: 7583113460962655922
+    second: Lookup Body 247_18
+  - first:
+      213: 2824341237330943178
+    second: Lookup Body 247_19
+  - first:
+      213: 1999155755912493855
+    second: Lookup Body 247_20
+  - first:
+      213: -915063343984231383
+    second: Lookup Body 247_21
+  - first:
+      213: -1973142263625153381
+    second: Lookup Body 247_22
+  - first:
+      213: -7977402977639021833
+    second: Lookup Body 247_23
+  - first:
+      213: 2829782508650343852
+    second: Lookup Body 247_24
+  - first:
+      213: -479729804275626141
+    second: Lookup Body 247_25
+  - first:
+      213: 1495125195431744147
+    second: Lookup Body 247_26
+  - first:
+      213: 1036571433932008826
+    second: Lookup Body 247_27
+  - first:
+      213: -8214152093701035119
+    second: Lookup Body 247_28
+  - first:
+      213: -6945466130228312783
+    second: Lookup Body 247_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lookup Body 247_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1074
+        width: 63
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a81881eeff7f80800000000000000
+      internalID: -8106480559639189294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1074
+        width: 51
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7e311607aa7070800000000000000
+      internalID: 8104974123907579280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1074
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ccc0b1e48f7a320800000000000000
+      internalID: 2569295126783118412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_3
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1074
+        width: 66
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbb57a4522f4c410800000000000000
+      internalID: 1496587218170788789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1074
+        width: 74
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107e79f23810fa8c0800000000000000
+      internalID: -3985965482248771839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_5
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1074
+        width: 78
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e64d24171fdeac0800000000000000
+      internalID: -3824135039812866530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 818
+        width: 79
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1b8093fe6d06270800000000000000
+      internalID: 8241823641030406648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 818
+        width: 78
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe7a6d2684c53e70800000000000000
+      internalID: 9094391103111200444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 818
+        width: 77
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3626fa9824ee8ae0800000000000000
+      internalID: -1545046759091853761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 818
+        width: 72
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac46e0bc61fa384d0800000000000000
+      internalID: -3133468403288873782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_10
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 818
+        width: 64
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105ecac5078ed4080800000000000000
+      internalID: -9201442894359239423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_11
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 818
+        width: 57
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf2206098074f50800000000000000
+      internalID: 6865465573130829261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 562
+        width: 50
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb9f1722592bf40800000000000000
+      internalID: 5742816450024423423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 562
+        width: 56
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c80cb0f0ee2ab0800000000000000
+      internalID: -5030836409174800623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_14
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 562
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b8f60103774680800000000000000
+      internalID: -8770915301031627453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_15
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 562
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb7a134283468610800000000000000
+      internalID: 1623058942464261083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_16
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 562
+        width: 90
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ddd842c45bd2e50800000000000000
+      internalID: 6786279552152624539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_17
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 562
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a992b3c197008d90800000000000000
+      internalID: -7097664690100987480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 306
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be79240481ac3960800000000000000
+      internalID: 7583113460962655922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 306
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc199f2463123720800000000000000
+      internalID: 2824341237330943178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_20
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 306
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b77d9619d6ebb10800000000000000
+      internalID: 1999155755912493855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_21
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 306
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cb6d2acba0d43f0800000000000000
+      internalID: -915063343984231383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_22
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 306
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94005db09dfd94e0800000000000000
+      internalID: -1973142263625153381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_23
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 306
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2cea702429a4190800000000000000
+      internalID: -7977402977639021833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 50
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cada7b3e238654720800000000000000
+      internalID: 2829782508650343852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 50
+        width: 95
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fcbf3e848a759f0800000000000000
+      internalID: -479729804275626141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 50
+        width: 94
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39212789170cfb410800000000000000
+      internalID: 1495125195431744147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_27
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 50
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da5d72a34a26e00800000000000000
+      internalID: 1036571433932008826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_28
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 50
+        width: 67
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b2be3f038710e80800000000000000
+      internalID: -8214152093701035119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lookup Body 247_29
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 50
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1350c3c6a5fbc9f90800000000000000
+      internalID: -6945466130228312783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

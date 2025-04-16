@@ -4,7 +4,7 @@ public class PlayerXP : MonoBehaviour
 {
     public int currentXP = 0;
     public int currentLevel = 1;
-    public int xpToNextLevel = 10;
+    public int xpToNextLevel = 50;
 
     public LevelUpUI levelUpUI;
 
@@ -22,7 +22,7 @@ public class PlayerXP : MonoBehaviour
     private void LevelUp()
     {
         currentLevel++;
-        currentXP = currentXP - xpToNextLevel;
+        currentXP -= xpToNextLevel;
         xpToNextLevel += 5; // seviye başına artış
 
         Debug.Log("Level Up! Yeni seviye: " + currentLevel);

@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: f7547fe01dfcaa04fbc2ecb5e2509aa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5169237978938181903
+    second: x512_Aloe_0
+  - first:
+      213: 6996425391248277919
+    second: x512_Aloe_1
+  - first:
+      213: -7350323814585386672
+    second: x512_Aloe_2
+  - first:
+      213: 7909787799549880929
+    second: x512_Aloe_3
+  - first:
+      213: 7504875846964127242
+    second: x512_Aloe_4
+  - first:
+      213: 1923182825488877029
+    second: x512_Aloe_5
+  - first:
+      213: -6452386085158703616
+    second: x512_Aloe_6
+  - first:
+      213: -4894950917112253386
+    second: x512_Aloe_7
+  - first:
+      213: -4716648964147466532
+    second: x512_Aloe_8
+  - first:
+      213: -2857319253109457547
+    second: x512_Aloe_9
+  - first:
+      213: -6793040177064460698
+    second: x512_Aloe_10
+  - first:
+      213: 1425142392976712988
+    second: x512_Aloe_11
+  - first:
+      213: 5804107920523983795
+    second: x512_Aloe_12
+  - first:
+      213: 7155919821192479889
+    second: x512_Aloe_13
+  - first:
+      213: 1621718296565132338
+    second: x512_Aloe_14
+  - first:
+      213: 3179507871783005554
+    second: x512_Aloe_15
+  - first:
+      213: -9201388910047743978
+    second: x512_Aloe_16
+  - first:
+      213: 6431245793066285207
+    second: x512_Aloe_17
+  - first:
+      213: -1902150236730438715
+    second: x512_Aloe_18
+  - first:
+      213: -5115142533883088594
+    second: x512_Aloe_19
+  - first:
+      213: -2038967257451392513
+    second: x512_Aloe_20
+  - first:
+      213: 1983291152166974312
+    second: x512_Aloe_21
+  - first:
+      213: 7208591035805941679
+    second: x512_Aloe_22
+  - first:
+      213: 3067879974523849999
+    second: x512_Aloe_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x512_Aloe_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1643
+        width: 325
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f098116dd82dcb740800000000000000
+      internalID: 5169237978938181903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1658
+        width: 345
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9180ee13db481160800000000000000
+      internalID: 6996425391248277919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_2
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1649
+        width: 358
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0593b8f2f676ef990800000000000000
+      internalID: -7350323814585386672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_3
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1645
+        width: 347
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aa3e8881635cd60800000000000000
+      internalID: 7909787799549880929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_4
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1646
+        width: 336
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06a4bdf1dca62860800000000000000
+      internalID: 7504875846964127242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_5
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 1641
+        width: 339
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5856f179480ba10800000000000000
+      internalID: 1923182825488877029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1118
+        width: 342
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2170ba058476a0800000000000000
+      internalID: -6452386085158703616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1115
+        width: 345
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6343d805314a11cb0800000000000000
+      internalID: -4894950917112253386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_8
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1120
+        width: 346
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdea6c9c1c81b8eb0800000000000000
+      internalID: -4716648964147466532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_9
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1132
+        width: 329
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db68c2743c858d0800000000000000
+      internalID: -2857319253109457547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_10
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1135
+        width: 318
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ebd1533f54ab1a0800000000000000
+      internalID: -6793040177064460698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_11
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1138
+        width: 320
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c152ab7a47f17c310800000000000000
+      internalID: 1425142392976712988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 622
+        width: 325
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbfcd8f6655c8050800000000000000
+      internalID: 5804107920523983795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 624
+        width: 345
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194ca57e92fee4360800000000000000
+      internalID: 7155919821192479889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_14
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 624
+        width: 358
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c2480d230818610800000000000000
+      internalID: 1621718296565132338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_15
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 624
+        width: 347
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d2f2a4091ef1c20800000000000000
+      internalID: 3179507871783005554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_16
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 626
+        width: 336
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b26099891e4080800000000000000
+      internalID: -9201388910047743978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_17
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 632
+        width: 339
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798f0fe79ff504950800000000000000
+      internalID: 6431245793066285207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 128
+        width: 342
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbc14e00743a95e0800000000000000
+      internalID: -1902150236730438715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 111
+        width: 345
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21386477fc5309b0800000000000000
+      internalID: -5115142533883088594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_20
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 96
+        width: 346
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff115fe051224b3e0800000000000000
+      internalID: -2038967257451392513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_21
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 87
+        width: 329
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86376138bc0168b10800000000000000
+      internalID: 1983291152166974312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_22
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 86
+        width: 318
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf3744ba5f0a0460800000000000000
+      internalID: 7208591035805941679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Aloe_23
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 93
+        width: 320
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d470f159c439a20800000000000000
+      internalID: 3067879974523849999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

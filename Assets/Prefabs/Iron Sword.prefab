@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5147504708030432125}
   - component: {fileID: 3003681575975321120}
   - component: {fileID: 3960953149862541748}
+  - component: {fileID: 8763896025974971932}
   m_Layer: 0
   m_Name: Iron Sword
   m_TagString: Untagged
@@ -105,3 +106,26 @@ MonoBehaviour:
   enemyLayer:
     serializedVersion: 2
     m_Bits: 64
+--- !u!136 &8763896025974971932
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3196604248210258804}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.53
+  m_Height: 1.06
+  m_Direction: 1
+  m_Center: {x: 0.064543895, y: -0.008067973, z: 0}

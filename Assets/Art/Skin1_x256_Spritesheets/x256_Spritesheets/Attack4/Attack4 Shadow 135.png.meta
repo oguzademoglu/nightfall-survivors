@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: 90e5f1109e90a624aad307e9f528c406
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2693311281667875081
+    second: Attack4 Shadow 135_0
+  - first:
+      213: 7927399282534713372
+    second: Attack4 Shadow 135_1
+  - first:
+      213: -64547862365044687
+    second: Attack4 Shadow 135_2
+  - first:
+      213: -1911802838133780683
+    second: Attack4 Shadow 135_3
+  - first:
+      213: 9027493495990613086
+    second: Attack4 Shadow 135_4
+  - first:
+      213: -3776737913364406396
+    second: Attack4 Shadow 135_5
+  - first:
+      213: 1605366174477517080
+    second: Attack4 Shadow 135_6
+  - first:
+      213: 1823145365092143606
+    second: Attack4 Shadow 135_7
+  - first:
+      213: 7052212879690460254
+    second: Attack4 Shadow 135_8
+  - first:
+      213: -7436749454772390931
+    second: Attack4 Shadow 135_9
+  - first:
+      213: 3882678809163037242
+    second: Attack4 Shadow 135_10
+  - first:
+      213: -772610413311962206
+    second: Attack4 Shadow 135_11
+  - first:
+      213: -6181224181500503473
+    second: Attack4 Shadow 135_12
+  - first:
+      213: 213514130287306066
+    second: Attack4 Shadow 135_13
+  - first:
+      213: 705860245720771412
+    second: Attack4 Shadow 135_14
+  - first:
+      213: 8544371156857631369
+    second: Attack4 Shadow 135_15
+  - first:
+      213: -5162240399078374823
+    second: Attack4 Shadow 135_16
+  - first:
+      213: -5798122273515223550
+    second: Attack4 Shadow 135_17
+  - first:
+      213: -6516826124852443342
+    second: Attack4 Shadow 135_18
+  - first:
+      213: -6679101577647962675
+    second: Attack4 Shadow 135_19
+  - first:
+      213: -3636516746253239165
+    second: Attack4 Shadow 135_20
+  - first:
+      213: 3018119042275683376
+    second: Attack4 Shadow 135_21
+  - first:
+      213: 5544714794069332519
+    second: Attack4 Shadow 135_22
+  - first:
+      213: 3548024862825686978
+    second: Attack4 Shadow 135_23
+  - first:
+      213: 1568510397022457349
+    second: Attack4 Shadow 135_24
+  - first:
+      213: -2604224026734833580
+    second: Attack4 Shadow 135_25
+  - first:
+      213: -129591310406026031
+    second: Attack4 Shadow 135_26
+  - first:
+      213: -3431322787441158600
+    second: Attack4 Shadow 135_27
+  - first:
+      213: -7388361220024150079
+    second: Attack4 Shadow 135_28
+  - first:
+      213: -5921400818479402231
+    second: Attack4 Shadow 135_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1061
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901ad554750906520800000000000000
+      internalID: 2693311281667875081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1051
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c180b2475a7c30e60800000000000000
+      internalID: 7927399282534713372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1044
+        width: 111
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13088b8af0eaa1ff0800000000000000
+      internalID: -64547862365044687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_3
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1045
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fc378a279e775e0800000000000000
+      internalID: -1911802838133780683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_4
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1048
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e547ba04189184d70800000000000000
+      internalID: 9027493495990613086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_5
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1046
+        width: 123
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f1a28b0e4569bc0800000000000000
+      internalID: -3776737913364406396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 788
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8110924b708674610800000000000000
+      internalID: 1605366174477517080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 787
+        width: 107
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f19734dc0d1d4910800000000000000
+      internalID: 1823145365092143606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 788
+        width: 101
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c6266ff3e7ed160800000000000000
+      internalID: 7052212879690460254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_9
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 788
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de336b0c5cb5bc890800000000000000
+      internalID: -7436749454772390931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_10
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 788
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a791d3ecb02e530800000000000000
+      internalID: 3882678809163037242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_11
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 789
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d5cc2ce22745f0800000000000000
+      internalID: -772610413311962206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 537
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a9b904b51e73aa0800000000000000
+      internalID: -6181224181500503473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 542
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552d4268fd86f200800000000000000
+      internalID: 213514130287306066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_14
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 549
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ba1475728bbc900800000000000000
+      internalID: 705860245720771412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_15
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 549
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982b7911c44b39670800000000000000
+      internalID: 8544371156857631369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_16
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 549
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95243cf25b90c58b0800000000000000
+      internalID: -5162240399078374823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_17
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 549
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20648d2138ee88fa0800000000000000
+      internalID: -5798122273515223550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 293
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2374f25ca259f85a0800000000000000
+      internalID: -6516826124852443342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 291
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ca85a0801f43a0800000000000000
+      internalID: -6679101577647962675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 291
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cf0df494f788dc0800000000000000
+      internalID: -3636516746253239165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 293
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c2fac374382e920800000000000000
+      internalID: 3018119042275683376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_22
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 292
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7221b516ab8c2fc40800000000000000
+      internalID: 5544714794069332519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_23
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 287
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7aaf280dd1d3130800000000000000
+      internalID: 3548024862825686978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 25
+        width: 105
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec70155e774c510800000000000000
+      internalID: 1568510397022457349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_25
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 24
+        width: 122
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450dee2ab00fbdbd0800000000000000
+      internalID: -2604224026734833580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_26
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 23
+        width: 122
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc7549c369933ef0800000000000000
+      internalID: -129591310406026031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_27
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 19
+        width: 111
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836ddd0da1e7160d0800000000000000
+      internalID: -3431322787441158600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_28
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 33
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c750389d94477990800000000000000
+      internalID: -7388361220024150079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4 Shadow 135_29
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 38
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903f3d91455f2dda0800000000000000
+      internalID: -5921400818479402231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

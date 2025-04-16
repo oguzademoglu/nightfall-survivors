@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: a24de8cb3917cab4cbefa0a6cb91b7b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 188214373143584416
+    second: x512_PalmBush_0
+  - first:
+      213: -4003060925580141912
+    second: x512_PalmBush_1
+  - first:
+      213: 8937422197207833910
+    second: x512_PalmBush_2
+  - first:
+      213: 4476268751935650836
+    second: x512_PalmBush_3
+  - first:
+      213: -8243617842905242386
+    second: x512_PalmBush_4
+  - first:
+      213: -5331737002349659534
+    second: x512_PalmBush_5
+  - first:
+      213: 1341748240036426488
+    second: x512_PalmBush_6
+  - first:
+      213: -999558423521300100
+    second: x512_PalmBush_7
+  - first:
+      213: -8494165673695094040
+    second: x512_PalmBush_8
+  - first:
+      213: 3494279864601307162
+    second: x512_PalmBush_9
+  - first:
+      213: 8349478668521452901
+    second: x512_PalmBush_10
+  - first:
+      213: 8714048533690409748
+    second: x512_PalmBush_11
+  - first:
+      213: 3761424219764998228
+    second: x512_PalmBush_12
+  - first:
+      213: -5334721047377059726
+    second: x512_PalmBush_13
+  - first:
+      213: 296890941070863463
+    second: x512_PalmBush_14
+  - first:
+      213: 6422372241860426235
+    second: x512_PalmBush_15
+  - first:
+      213: 9044333973423857334
+    second: x512_PalmBush_16
+  - first:
+      213: 6816531287939823190
+    second: x512_PalmBush_17
+  - first:
+      213: -4429918075636318994
+    second: x512_PalmBush_18
+  - first:
+      213: -1553330784264173273
+    second: x512_PalmBush_19
+  - first:
+      213: -3474726964511061619
+    second: x512_PalmBush_20
+  - first:
+      213: 3695637449962109782
+    second: x512_PalmBush_21
+  - first:
+      213: -8359418112528653206
+    second: x512_PalmBush_22
+  - first:
+      213: -6756897866069151266
+    second: x512_PalmBush_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x512_PalmBush_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1650
+        width: 340
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae98d4a9fbac9200800000000000000
+      internalID: 188214373143584416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1649
+        width: 344
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa9c8c1c454278c0800000000000000
+      internalID: -4003060925580141912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_2
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1651
+        width: 351
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d9348c22a180c70800000000000000
+      internalID: 8937422197207833910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_3
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1650
+        width: 335
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c3e4ea6b6ee1e30800000000000000
+      internalID: 4476268751935650836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_4
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1645
+        width: 321
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4af899f39c89d80800000000000000
+      internalID: -8243617842905242386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_5
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1645
+        width: 292
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a7423f17dd106b0800000000000000
+      internalID: -5331737002349659534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1137
+        width: 278
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f270695ae8de9210800000000000000
+      internalID: 1341748240036426488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1139
+        width: 265
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7173c1e8ead022f0800000000000000
+      internalID: -999558423521300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_8
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1136
+        width: 267
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea5614e259ae1a80800000000000000
+      internalID: -8494165673695094040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_9
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1136
+        width: 253
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a186c5bf50d2e7030800000000000000
+      internalID: 3494279864601307162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_10
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1134
+        width: 272
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5653ce09c9e4fd370800000000000000
+      internalID: 8349478668521452901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_11
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1131
+        width: 316
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413612ee8f48ee870800000000000000
+      internalID: 8714048533690409748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 618
+        width: 341
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450c4a42663433430800000000000000
+      internalID: 3761424219764998228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 621
+        width: 345
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2706a43d87347f5b0800000000000000
+      internalID: -5334721047377059726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_14
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 628
+        width: 351
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6f87ecb4ce1400800000000000000
+      internalID: 296890941070863463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_15
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 633
+        width: 334
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf97b6bd689d02950800000000000000
+      internalID: 6422372241860426235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 639
+        width: 321
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1de374dde38d70800000000000000
+      internalID: 9044333973423857334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_17
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 648
+        width: 290
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6563df1471f299e50800000000000000
+      internalID: 6816531287939823190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 136
+        width: 279
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec7d9d1bf4c582c0800000000000000
+      internalID: -4429918075636318994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 138
+        width: 265
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7294141b1e5717ae0800000000000000
+      internalID: -1553330784264173273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_20
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 142
+        width: 268
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89c8d45c3a47cfc0800000000000000
+      internalID: -3474726964511061619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_21
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 137
+        width: 253
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b3f9f2eaa894330800000000000000
+      internalID: 3695637449962109782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_22
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 127
+        width: 273
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6463c944816dfb80800000000000000
+      internalID: -8359418112528653206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_PalmBush_23
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 119
+        width: 316
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed17a5db03daa32a0800000000000000
+      internalID: -6756897866069151266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

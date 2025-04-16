@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 9152b3c57be09934d86738630df23e63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2435895321292762719
+    second: x512_Shadow_Spritesheet_0
+  - first:
+      213: -7190576159424862056
+    second: x512_Shadow_Spritesheet_1
+  - first:
+      213: 517328982552861274
+    second: x512_Shadow_Spritesheet_2
+  - first:
+      213: 7586692431505348307
+    second: x512_Shadow_Spritesheet_3
+  - first:
+      213: -7717387757759391025
+    second: x512_Shadow_Spritesheet_4
+  - first:
+      213: 134368343712754185
+    second: x512_Shadow_Spritesheet_5
+  - first:
+      213: 4943842510787895157
+    second: x512_Shadow_Spritesheet_6
+  - first:
+      213: -9110138708107857645
+    second: x512_Shadow_Spritesheet_7
+  - first:
+      213: -690539697071973845
+    second: x512_Shadow_Spritesheet_8
+  - first:
+      213: -2064907780265854540
+    second: x512_Shadow_Spritesheet_9
+  - first:
+      213: 2491101964708961835
+    second: x512_Shadow_Spritesheet_10
+  - first:
+      213: -4060513614521124570
+    second: x512_Shadow_Spritesheet_11
+  - first:
+      213: -2852510997950539532
+    second: x512_Shadow_Spritesheet_12
+  - first:
+      213: 4563383470774454858
+    second: x512_Shadow_Spritesheet_13
+  - first:
+      213: 3161906945031148491
+    second: x512_Shadow_Spritesheet_14
+  - first:
+      213: -2539324863409805536
+    second: x512_Shadow_Spritesheet_15
+  - first:
+      213: 7864623447608291913
+    second: x512_Shadow_Spritesheet_16
+  - first:
+      213: -8325723894924665846
+    second: x512_Shadow_Spritesheet_17
+  - first:
+      213: 7798263738033170242
+    second: x512_Shadow_Spritesheet_18
+  - first:
+      213: 4669204047709682919
+    second: x512_Shadow_Spritesheet_19
+  - first:
+      213: -3411983093514613874
+    second: x512_Shadow_Spritesheet_20
+  - first:
+      213: 3119295143104577342
+    second: x512_Shadow_Spritesheet_21
+  - first:
+      213: 5663712702205119849
+    second: x512_Shadow_Spritesheet_22
+  - first:
+      213: -9064536078565382906
+    second: x512_Shadow_Spritesheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1562
+        width: 386
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee0b783e90ec120800000000000000
+      internalID: 2435895321292762719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1568
+        width: 371
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a61f8411f53c90800000000000000
+      internalID: -7190576159424862056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1583
+        width: 346
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ad31df7fbed2700800000000000000
+      internalID: 517328982552861274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1587
+        width: 300
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d655080298594960800000000000000
+      internalID: 7586692431505348307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1576
+        width: 268
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca9dc809b456e490800000000000000
+      internalID: -7717387757759391025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 1570
+        width: 256
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a6e04fb4f5dd100800000000000000
+      internalID: 134368343712754185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1060
+        width: 273
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fdcf8e19e0c9440800000000000000
+      internalID: 4943842510787895157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1069
+        width: 287
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311f1b0dc19429180800000000000000
+      internalID: -9110138708107857645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1076
+        width: 282
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a18bcddc5ba66f0800000000000000
+      internalID: -690539697071973845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1089
+        width: 292
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9305f6059f753e0800000000000000
+      internalID: -2064907780265854540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 1107
+        width: 343
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e51c9d90c229220800000000000000
+      internalID: 2491101964708961835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 1126
+        width: 377
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b4d0916826a7c0800000000000000
+      internalID: -4060513614521124570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 604
+        width: 386
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f853415c58d968d0800000000000000
+      internalID: -2852510997950539532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 588
+        width: 371
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a866db615645f30800000000000000
+      internalID: 4563383470774454858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 577
+        width: 345
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc31c6f2d9951eb20800000000000000
+      internalID: 3161906945031148491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 565
+        width: 300
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027242b9d7182ccd0800000000000000
+      internalID: -2539324863409805536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 540
+        width: 268
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94276e66b51c42d60800000000000000
+      internalID: 7864623447608291913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 522
+        width: 257
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c9809aa36157c80800000000000000
+      internalID: -8325723894924665846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 273
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247e6428d8ff83c60800000000000000
+      internalID: 7798263738033170242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 4
+        width: 287
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec3d87c7585cc040800000000000000
+      internalID: 4669204047709682919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 15
+        width: 282
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b4c63347336a0d0800000000000000
+      internalID: -3411983093514613874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 35
+        width: 292
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f795ae766f94b20800000000000000
+      internalID: 3119295143104577342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 38
+        width: 343
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dcdcce1bc899e40800000000000000
+      internalID: 5663712702205119849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x512_Shadow_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 29
+        width: 377
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605e567667c443280800000000000000
+      internalID: -9064536078565382906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

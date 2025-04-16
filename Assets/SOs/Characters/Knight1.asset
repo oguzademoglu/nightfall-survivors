@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 654112a6e5a750d45b10579c25d5547e, type: 3}
+  m_Name: Knight1
+  m_EditorClassIdentifier: 
+  characterName: Real Knight
+  portrait: {fileID: 4723107735738678597, guid: 85072fb66e6c80f498dbea4fd82efb20, type: 3}
+  characterPrefab: {fileID: 1372441618558114703, guid: 83f0cb0c0fee9d44cbdf93142523ffb1, type: 3}
+  moveSpeed: 5
+  attackSpeed: 1
+  maxHP: 100

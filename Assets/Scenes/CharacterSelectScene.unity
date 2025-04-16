@@ -505,7 +505,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fafdfe1317f7114eb84ce84c621a478, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  knightData: {fileID: 11400000, guid: d848335646046a348a7daf7a17b0af13, type: 2}
+  knightData: {fileID: 11400000, guid: 981957dc3b18d8e4189842965b5a1f33, type: 2}
   rogueData: {fileID: 11400000, guid: 900ec9581e0535d4483f545e37acc654, type: 2}
 --- !u!114 &810351588
 MonoBehaviour:

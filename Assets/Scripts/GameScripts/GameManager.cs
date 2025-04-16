@@ -1,8 +1,11 @@
+using Unity.Cinemachine;
 using UnityEngine;
+
 
 public class GameManager : MonoBehaviour
 {
     public LevelUpUI levelUpUI;
+    public CinemachineCamera virtualCamera;
     void Start()
     {
         if (GameData.selectedCharacter != null)
@@ -20,6 +23,11 @@ public class GameManager : MonoBehaviour
             if (xp != null && levelUpUI != null)
             {
                 xp.levelUpUI = levelUpUI;
+            }
+            // 🎥 Kamera hedefini karakter yap
+            if (virtualCamera != null)
+            {
+                virtualCamera.Follow = player.transform;
             }
         }
         else

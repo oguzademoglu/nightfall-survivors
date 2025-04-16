@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: d5b48029709dccb47bc9e6fe47748578
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1768380018718097760
+    second: x256_Autumn_Body_Spritesheet_0
+  - first:
+      213: -1583826737372901857
+    second: x256_Autumn_Body_Spritesheet_1
+  - first:
+      213: 2521903066458489074
+    second: x256_Autumn_Body_Spritesheet_2
+  - first:
+      213: 3092383829955044272
+    second: x256_Autumn_Body_Spritesheet_3
+  - first:
+      213: 7984685200737206993
+    second: x256_Autumn_Body_Spritesheet_4
+  - first:
+      213: 1915033550245542212
+    second: x256_Autumn_Body_Spritesheet_5
+  - first:
+      213: 5868479524870394294
+    second: x256_Autumn_Body_Spritesheet_6
+  - first:
+      213: 3072534876808432586
+    second: x256_Autumn_Body_Spritesheet_7
+  - first:
+      213: -6812349620702138850
+    second: x256_Autumn_Body_Spritesheet_8
+  - first:
+      213: 2706180769492264897
+    second: x256_Autumn_Body_Spritesheet_9
+  - first:
+      213: 8315202365672878592
+    second: x256_Autumn_Body_Spritesheet_10
+  - first:
+      213: -5935937506957890597
+    second: x256_Autumn_Body_Spritesheet_11
+  - first:
+      213: -8767765103491448826
+    second: x256_Autumn_Body_Spritesheet_12
+  - first:
+      213: -8946727653745162956
+    second: x256_Autumn_Body_Spritesheet_13
+  - first:
+      213: 6271560891223411807
+    second: x256_Autumn_Body_Spritesheet_14
+  - first:
+      213: 9094683709650972846
+    second: x256_Autumn_Body_Spritesheet_15
+  - first:
+      213: -3189722290291570697
+    second: x256_Autumn_Body_Spritesheet_16
+  - first:
+      213: 7995216342084106119
+    second: x256_Autumn_Body_Spritesheet_17
+  - first:
+      213: -1403721567571812059
+    second: x256_Autumn_Body_Spritesheet_18
+  - first:
+      213: -537705975901954644
+    second: x256_Autumn_Body_Spritesheet_19
+  - first:
+      213: 399548910275686751
+    second: x256_Autumn_Body_Spritesheet_20
+  - first:
+      213: -908621472247665231
+    second: x256_Autumn_Body_Spritesheet_21
+  - first:
+      213: -7987101351874506298
+    second: x256_Autumn_Body_Spritesheet_22
+  - first:
+      213: -3397834982766582981
+    second: x256_Autumn_Body_Spritesheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 823
+        width: 195
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb8640eb37577e0800000000000000
+      internalID: -1768380018718097760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 821
+        width: 187
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4f1d49fd150ae0800000000000000
+      internalID: -1583826737372901857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 819
+        width: 174
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f00a323a799ff220800000000000000
+      internalID: 2521903066458489074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 813
+        width: 151
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3e1ad85ba5aea20800000000000000
+      internalID: 3092383829955044272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 809
+        width: 136
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d28249a2ec4fce60800000000000000
+      internalID: 7984685200737206993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 807
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449375f1ed0939a10800000000000000
+      internalID: 1915033550245542212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 552
+        width: 139
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b19d8b0907017150800000000000000
+      internalID: 5868479524870394294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 555
+        width: 145
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb4a240136d3aa20800000000000000
+      internalID: 3072534876808432586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 561
+        width: 143
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e28440d1ca571a0800000000000000
+      internalID: -6812349620702138850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 563
+        width: 148
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7649762194e8520800000000000000
+      internalID: 2706180769492264897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 566
+        width: 173
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0027b69ee78856370800000000000000
+      internalID: 8315202365672878592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 570
+        width: 191
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb6bd099405f9da0800000000000000
+      internalID: -5935937506957890597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 317
+        width: 195
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600835c8714a25680800000000000000
+      internalID: -8767765103491448826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 320
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4350b58c996d6d380800000000000000
+      internalID: -8946727653745162956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 317
+        width: 175
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c8a94076f090750800000000000000
+      internalID: 6271560891223411807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 314
+        width: 151
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea03742f5aec63e70800000000000000
+      internalID: 9094683709650972846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 306
+        width: 136
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f786031a74dbb3d0800000000000000
+      internalID: -3189722290291570697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 130
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787325417e6b4fe60800000000000000
+      internalID: 7995216342084106119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 37
+        width: 138
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521e359ebaaf48ce0800000000000000
+      internalID: -1403721567571812059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 38
+        width: 145
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad52c8834fa988f0800000000000000
+      internalID: -537705975901954644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 44
+        width: 143
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517063fd9b7b8500800000000000000
+      internalID: 399548910275686751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 52
+        width: 148
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bda267c59de363f0800000000000000
+      internalID: -908621472247665231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 55
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c15a7053ad182190800000000000000
+      internalID: -7987101351874506298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x256_Autumn_Body_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 58
+        width: 191
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b336dcee51778d0d0800000000000000
+      internalID: -3397834982766582981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
