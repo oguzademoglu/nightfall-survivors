@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
 
     private float currentHealth;
     private Transform player;
+    private SpriteRenderer spriteRenderer;
 
 
     [SerializeField] private GameObject xpOrbPrefab;
@@ -14,6 +15,7 @@ public class Enemy : MonoBehaviour
     void Start()
     {
         Initialize(data);
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     public void Initialize(EnemyData enemyData)
@@ -29,6 +31,14 @@ public class Enemy : MonoBehaviour
 
         Vector2 direction = (player.position - transform.position).normalized;
         transform.position += data.moveSpeed * Time.deltaTime * (Vector3)direction;
+        if (direction.x > 0)
+        {
+            spriteRenderer.flipX = true;
+        }
+        else if (direction.x < 0)
+        {
+            spriteRenderer.flipX = false;
+        }
     }
 
     public void TakeDamage(float damage)

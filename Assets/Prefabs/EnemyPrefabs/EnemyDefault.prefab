@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f82daaa5dfac1854d9df7b7db3916b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: {fileID: 0}
+  data: {fileID: 11400000, guid: 673d8c16c4d8f514f96be69745d09c1b, type: 2}
   xpOrbPrefab: {fileID: 320486974143798555, guid: 1acb89189737d3f4f8ac7c1177ac7040, type: 3}
 --- !u!70 &2901442328230844194
 CapsuleCollider2D:
