@@ -12,4 +12,5 @@ public class WeaponData : ScriptableObject
     public float attackCooldown;
 
     public GameObject prefab; // Sword, projectile vs.
+    public GameObject projectilePrefab; // 💥 Sadece Ranged için kullanılır
 }
