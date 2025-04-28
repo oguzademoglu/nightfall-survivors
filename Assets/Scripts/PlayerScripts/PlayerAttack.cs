@@ -9,7 +9,9 @@ public class PlayerAttack : MonoBehaviour
     public float attackRate = 1f; // Saniyede kaç saldırı
     public float attackRange = 1.5f; // Saldırı yarıçapı
     public float attackDamage = 10f; // Verilecek hasar
+    public float pushbackForce = 0.5f;
     public LayerMask enemyLayer; // Hangi layer'daki objelere vuracak
+    public GameObject hitEffectPrefab;
 
     private void Awake()
     {
@@ -46,6 +48,13 @@ public class PlayerAttack : MonoBehaviour
                 enemy.TakeDamage(attackDamage);
                 Debug.Log("Düşmana vuruldu: " + enemy.name);
             }
+            // 🎯 Hit Effect spawn
+            if (hitEffectPrefab != null)
+            {
+                Instantiate(hitEffectPrefab, enemy.transform.position, Quaternion.identity);
+            }
+            // 🎯 Pushback
+            enemy.ApplyPushback(transform.position, pushbackForce);
         }
     }
 

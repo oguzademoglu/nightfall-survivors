@@ -320,12 +320,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c680cd1cbb3de3f41a58dc97a0af259b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackRate: 2
+  attackRate: 5
   attackRange: 2
   attackDamage: 10
+  pushbackForce: 5
   enemyLayer:
     serializedVersion: 2
     m_Bits: 64
+  hitEffectPrefab: {fileID: 1856705124551943980, guid: b067f33bc2a4c9f4086a8bcd750fd5b5, type: 3}
 --- !u!1 &4702257340146582722
 GameObject:
   m_ObjectHideFlags: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Default
   m_EditorClassIdentifier: 
   enemyName: EnemyDefault
-  maxHealth: 10
+  maxHealth: 20
   moveSpeed: 2
   prefab: {fileID: 6992375522564149083, guid: f6b3850af4f9ea7439ada9de7c9ab423, type: 3}
   xpReward: 10
