@@ -5,6 +5,7 @@ public class CharacterSelector : MonoBehaviour
 {
     public CharacterData knightData;
     public CharacterData rogueData;
+    public CharacterData watchmanData;
 
     public void SelectKnight()
     {
@@ -15,6 +16,11 @@ public class CharacterSelector : MonoBehaviour
     public void SelectRogue()
     {
         GameData.selectedCharacter = rogueData;
+        SceneManager.LoadScene("GameScene");
+    }
+    public void SelectWatchman()
+    {
+        GameData.selectedCharacter = watchmanData;
         SceneManager.LoadScene("GameScene");
     }
 }
