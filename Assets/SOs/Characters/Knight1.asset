@@ -15,6 +15,6 @@ MonoBehaviour:
   characterName: Real Knight
   portrait: {fileID: 4723107735738678597, guid: 85072fb66e6c80f498dbea4fd82efb20, type: 3}
   characterPrefab: {fileID: 1372441618558114703, guid: 83f0cb0c0fee9d44cbdf93142523ffb1, type: 3}
-  moveSpeed: 5
+  moveSpeed: 7
   attackSpeed: 1
   maxHP: 100
