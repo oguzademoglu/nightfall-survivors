@@ -18,6 +18,9 @@ public class Enemy : MonoBehaviour
     private float pushTimer;
 
 
+    private bool isRooted;
+
+
     [SerializeField] private GameObject xpOrbPrefab;
     // [SerializeField] private int xpAmount = 1;
 
@@ -48,6 +51,12 @@ public class Enemy : MonoBehaviour
             {
                 isPushed = false;
             }
+            return;
+        }
+
+        if (isRooted)
+        {
+            rb.velocity = Vector2.zero;
             return;
         }
 
@@ -103,5 +112,10 @@ public class Enemy : MonoBehaviour
 
         isPushed = true;
         pushTimer = pushRecoveryTime;
+    }
+
+    public void SetRooted(bool value)
+    {
+        isRooted = value;
     }
 }
