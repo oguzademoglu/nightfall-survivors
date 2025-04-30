@@ -16,8 +16,10 @@ public class GameManager : MonoBehaviour
                 return;
             }
             GameObject player = Instantiate(GameData.selectedCharacter.characterPrefab, Vector3.zero, Quaternion.identity);
-            PlayerStats stats = player.GetComponent<PlayerStats>();
-            stats.characterData = GameData.selectedCharacter;
+            PlayerStats playerStats = player.GetComponent<PlayerStats>();
+            SkillManager skillManager = FindAnyObjectByType<SkillManager>();
+            playerStats.characterData = GameData.selectedCharacter;
+            skillManager.playerStats = playerStats;
 
             PlayerXP xp = player.GetComponent<PlayerXP>();
             if (xp != null && levelUpUI != null)

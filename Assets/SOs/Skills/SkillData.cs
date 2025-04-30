@@ -12,6 +12,12 @@ public class SkillData : ScriptableObject
     [Header("Yetenek Tipi ve Değeri")]
     public SkillType type;
     public float value;
+    public float cooldown;
+
+    [Header("Active Skill Özellikleri")]
+    public GameObject skillPrefab;
+    public int numberToSpawn = 3;
+    public float spawnRadius = 2f;
 
     [Header("Özelleştirme")]
     public bool isStackable = false; // Aynı yetenek birden fazla alınabilir mi?
